@@ -21,9 +21,9 @@
 
 2. 在开发使用中，标签靠近小程序使用规范：
   
-  1. div、p、ul、li 改成 view；
+* div、p、ul、li 改成 view；
   
-  1. span、font 改成 text；
+* span、font 改成 text；
   
   1. a 改成 navigator；
   
