@@ -11,9 +11,11 @@
 
 对一个普通的Vue项目来说：
 > 第一步 利用 HBuilderX 搭建项目雏形
+
 > 第二步 根据项目的功能设置页面的路由
 
-UNI与Vue的区别：
+
+### UNI与Vue的区别：
 
 1. 开发使用Vue单文件组件：在 index.vue 使用<template>、<script>、<style>
 
